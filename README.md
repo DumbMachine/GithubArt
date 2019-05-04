@@ -41,3 +41,4 @@
 ### TODOs:
 - [ ] Make it available online!
 - [ ] Clean the code.
+- [ ] Add option to automatically remove the commits.
