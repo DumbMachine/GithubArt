@@ -32,11 +32,6 @@
 ## Examples Below
 
 ![image](https://user-images.githubusercontent.com/23381512/57026140-a6076300-6c56-11e9-8887-1c60235d86be.png)
-![image](https://user-images.githubusercontent.com/23381512/57026165-b91a3300-6c56-11e9-98d6-3fd68e0cb0e7.png)
-
-
-### Best one yet!
-![image](https://user-images.githubusercontent.com/23381512/57042415-31e2b480-6c82-11e9-97b6-5a9c7312d8d0.png)
 
 ### TODOs:
 - [ ] Make it available online!
